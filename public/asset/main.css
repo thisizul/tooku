@@ -1,0 +1,36 @@
+.products {
+  margin-top: 20px;
+}
+
+.caption {
+  text-align: center;
+}
+
+.img-size {
+  width: 225px !important;
+  height: 153px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.cart-delete {
+  margin-left: 5px;
+  text-decoration: none;
+  color: grey;
+  font-size: 16px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.cart-delete:hover {
+  color: red;
+}
+
+.check-btn {
+  float: right;
+}
+
+.shopping-btn {
+  background: #fcfcfc;
+  border: 1px solid #7c7e81 !important;
+}
